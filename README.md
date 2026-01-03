@@ -1,17 +1,23 @@
-# 🌤️ Weather App
+# 🌤️ Weather App – React Native
 
-Aplicativo de clima desenvolvido em React Native.
+Aplicativo mobile de clima desenvolvido em **React Native**, que permite ao usuário consultar informações climáticas em tempo real a partir do nome da cidade.
 
-## Funcionalidades
+## 📱 Funcionalidades
 - Busca de clima por cidade
 - Exibição de temperatura atual
 - Condições climáticas em tempo real
+- Navegação entre telas
+- Frases dinâmicas
 
-## Tecnologias
+## 🛠️ Tecnologias Utilizadas
 - React Native
 - JavaScript
-- API de clima
+- Expo
+- API de Clima
 
-## Status
-✅ Projeto finalizado para fins acadêmicos
+## ▶️ Como executar o projeto
+```bash
+npm install
+npx expo start
+
 
